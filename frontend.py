@@ -76,7 +76,7 @@ st.markdown('<h1 class="gemini-title">Hello, Whats Going On?</h1>', unsafe_allow
 st.markdown('<p class="gemini-subtitle">How can I help you discover or create today?</p>', unsafe_allow_html=True)
 st.markdown("---")
 
-BACKEND_URL = "https://haris-game.github.io/Backend/backend.py"
+BACKEND_URL = "https://angriness-theft-boggle.ngrok-free.dev/chat"
 
 # 4. Initialize session states
 if "messages" not in st.session_state:
